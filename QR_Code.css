@@ -1,0 +1,28 @@
+
+
+h2 {
+
+font-family: Outfit;
+font-weight: 700;
+font-size: 18px;
+}
+
+body {
+    font-family: Outfit;
+    font-size: 15px;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
