@@ -8,6 +8,7 @@ font-size: 18px;
 text-align: center;
 color: hsl(218, 44%, 22%);
 margin-bottom: 5px;
+max-width: 14rem;
 }
 
 p {
@@ -31,6 +32,7 @@ section {
     display: flex;
     flex-direction: column;
     max-width: 15.625rem;
+    align-items: center;
     padding: 15px;
     border-radius: 15px;
     
@@ -42,4 +44,5 @@ body {
 
 img {
     border-radius: 10px;
+    max-width: 100%;
 }
