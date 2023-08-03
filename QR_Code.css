@@ -30,7 +30,7 @@ section {
     background-color: white;
     display: flex;
     flex-direction: column;
-    width: 250px;
+    max-width: 15.625rem;
     padding: 15px;
     border-radius: 15px;
     
